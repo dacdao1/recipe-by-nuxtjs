@@ -1,9 +1,13 @@
 const pkg = require('./package')
-
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/recipe-by-nuxtjs/'
+  }
+} : {}
 
 module.exports = {
   mode: 'universal',
-  route: {base: '/recipe-by-nuxtjs'},
+  ...routerBase,
   /*
   ** Headers of the page
   */
