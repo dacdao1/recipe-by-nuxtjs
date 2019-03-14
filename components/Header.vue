@@ -3,7 +3,7 @@
     <nav>
       <ul>
         <li>
-          <nuxt-link to="">Starting page</nuxt-link>
+          <nuxt-link to="/">Starting page</nuxt-link>
         </li>
         <li>
           <nuxt-link to="/recipes">Recipes</nuxt-link>

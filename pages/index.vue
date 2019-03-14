@@ -1,6 +1,4 @@
 <template>
-  <section class="container"></section>
-
   <h1>
     Welcome to my NUXT.js application. To see what else I have built, please
     visit my Github profile at www.github.com/dacdao1 or click
