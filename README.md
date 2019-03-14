@@ -1,7 +1,11 @@
 # recipes
 
 <img align="center" width="1000" height="500" src="front.PNG" alt="Front view of the software" />
-This is my first time using the nuxt.js framework to build a basic web app. I will upload the github pages here soon. But for now, you can look at the build set up below to run this on your computer. Also download [node.js](www.nodejs.org) to run the following command on your computer.
+
+
+This is my first time using the nuxt.js framework to build a basic web app. You can visit the Github pages of this web app by clicking [here](https://dacdao1.github.io/recipe-by-nuxtjs). You can click at
+
+You can look at the build set up below to run this on your computer. Also download [node.js](www.nodejs.org) to run the following command on your computer.
 
 > Recipe app
 
