@@ -1,11 +1,25 @@
-# STATIC
+# recipes
 
-**This directory is not required, you can delete it if you don't want to use it.**
+<img align="center" width="1000" height="500" src="front.PNG" alt="Front view of the software" />
+This is my first time using the nuxt.js framework to build a basic web app. I will upload the github pages here soon. But for now, you can look at the build set up below to run this on your computer. Also download [node.js](www.nodejs.org) to run the following command on your computer.
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
+> Recipe app
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+## Build Setup
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+``` bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
